@@ -4,10 +4,6 @@
     <title>Tags on TongZheng&#39;s Blog</title>
     <link>http://tongzhengregen.cn/tags/</link>
     <description>Recent content in Tags on TongZheng&#39;s Blog</description>
-    <image>
-      <url>http://tongzhengregen.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://tongzhengregen.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language><atom:link href="http://tongzhengregen.cn/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
