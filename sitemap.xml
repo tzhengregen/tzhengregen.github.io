@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://tongzhengregen.cn/research-experience/first/</loc>
-    <lastmod>2023-02-05T10:43:14+08:00</lastmod>
-  </url><url>
     <loc>http://tongzhengregen.cn/coursework/first/</loc>
     <lastmod>2023-02-06T01:04:52+08:00</lastmod>
   </url><url>
@@ -37,6 +34,9 @@
   </url><url>
     <loc>http://tongzhengregen.cn/research-experience/</loc>
     <lastmod>2023-02-05T18:16:27+08:00</lastmod>
+  </url><url>
+    <loc>http://tongzhengregen.cn/research-experience/first/</loc>
+    <lastmod>2023-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tongzhengregen.cn/categories/</loc>
   </url><url>
