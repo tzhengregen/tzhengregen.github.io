@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://tongzhengregen.cn/sitemap.xml
+Sitemap: sitemap.xml
