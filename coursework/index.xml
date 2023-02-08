@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Courseworks on Portfolio</title>
-    <link>/coursework/</link>
+    <link>tongzhengregen.cn/coursework/</link>
     <description>Recent content in Courseworks on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Wed, 08 Feb 2023 13:23:42 +0800</lastBuildDate><atom:link href="/coursework/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Feb 2023 12:04:03 +0800</lastBuildDate><atom:link href="tongzhengregen.cn/coursework/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Continuation - Conceptual urban design of Baie-Tan Area based on the theory of Urban Amenity循·续——基于城市舒适物理论的白鹅潭片区概念性城市设计</title>
-      <link>/coursework/first/</link>
+      <link>tongzhengregen.cn/coursework/first/</link>
       <pubDate>Mon, 06 Feb 2023 01:04:52 +0800</pubDate>
       
-      <guid>/coursework/first/</guid>
+      <guid>tongzhengregen.cn/coursework/first/</guid>
       <description>作者：温凡、潘启枝、张莹、郑潼
 分工情况：负责前期分析、部分分析图及效果图绘制，以及鸟瞰图
 介绍：针对片区面临的文脉断裂及人性视角缺失的矛盾，引入“城市舒适物”（ Urban Amenity）理论，从片区中萃取舒适物元素，并从舒适物的五个层面架构片区舒适物网，串联起不同的舒适物及植入的新型舒适物，形成一个具有配套性和系统性的城市舒适运作体系。
@@ -22,10 +22,10 @@
     
     <item>
       <title>Drawings related to GIS course地理信息系统课程相关图纸</title>
-      <link>/coursework/second/</link>
+      <link>tongzhengregen.cn/coursework/second/</link>
       <pubDate>Mon, 06 Feb 2023 12:03:56 +0800</pubDate>
       
-      <guid>/coursework/second/</guid>
+      <guid>tongzhengregen.cn/coursework/second/</guid>
       <description>作者：郑潼
 分工情况：独立完成
 学习arcgis软件，并通过相关的分析，独立完成学校选址报告、长三角经济区NDVI热点分析图及聚类异常分析图、西安市多年各行政区划人口数据对比图</description>
@@ -33,31 +33,21 @@
     
     <item>
       <title>Making the Garden More &#34;Social&#34;: An Exploration of NGO Interventional Community Garden Maintenance Mode from the Perspective of Informal Public Participation让花园多点&#34;社&#34;——非正式公众参与视角下NGO介入型社区花园维运模式探究</title>
-      <link>/coursework/third/</link>
+      <link>tongzhengregen.cn/coursework/third/</link>
       <pubDate>Mon, 06 Feb 2023 12:04:03 +0800</pubDate>
       
-      <guid>/coursework/third/</guid>
+      <guid>tongzhengregen.cn/coursework/third/</guid>
       <description>作者：梁浠玥、张莹、郑欣柱、郑潼
 分工情况：负责部分前期分析，以及两种维运模式绘制
 Abstract: Community garden is a public activity green space where community residents jointly engage in horticultural planting activities on community green space, and the planting process and results have public participation and sharing. Based on the perspective of informal public participation, through interviews, questionnaires and other methods, the cases, public needs and advocate concepts were understood in the early stage, and two representative community gardens in Guangzhou were selected as the research objects in the medium term, and their maintenance modes and public feedback were analyzed and compared, and then governance strategies conducive to the sustainable development of community gardens and enhanced the sense of participation of community residents were proposed, and the future construction and governance direction of community gardens in Guangzhou was explored.</description>
     </item>
     
     <item>
-      <title>盐城市阜宁县穆沟村产业指引报告</title>
-      <link>/coursework/5/</link>
-      <pubDate>Wed, 08 Feb 2023 13:23:42 +0800</pubDate>
-      
-      <guid>/coursework/5/</guid>
-      <description>作者：郑潼、南京大学乡村振兴工作站
-分工情况：提出产业融合策略</description>
-    </item>
-    
-    <item>
       <title>Analysis of Informal Rest Space Behavior and Transformation Strategy of Streets: A Case Study of Wushan Street, Guangzhou街道非正式休憩空间行为分析及改造策略——以广州市五山街道为例</title>
-      <link>/coursework/forth/</link>
+      <link>tongzhengregen.cn/coursework/forth/</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/coursework/forth/</guid>
+      <guid>tongzhengregen.cn/coursework/forth/</guid>
       <description>Abstract: Taking Wushan Street in Tianhe District as a case study, this paper conducts an empirical study on the development of informal leisure space on streets, analyzes the characteristics of crowds and the spatial characteristics corresponding to daily activities on the street, analyzes the identification of multiple needs from the perspective of &amp;ldquo;informality&amp;rdquo;, discusses the factors of the formation of informal space in streets, analyzes the spatial operation mechanism, explores the blind areas of current planning policy response, and puts forward specific suggestions for the renewal strategy and governance methods of such space.</description>
     </item>
     
